@@ -1,0 +1,1 @@
+C:\Users\pedri\OneDrive\Documentos\AdventOfCode22\build\classes\kotlin\main\Day01Kt.class;C:\Users\pedri\OneDrive\Documentos\AdventOfCode22\build\classes\kotlin\main\UtilsKt.class
